@@ -42,6 +42,7 @@
     Εγκαταστήστε τις εξαρτήσεις:
     ```bash
     pip install tkinter trimesh pymeshfix numpy vedo
+    pip install -r requirements.txt
     ```
     *   **Σημείωση για Tkinter σε Linux:** Αν δεν είναι ήδη εγκατεστημένη, ίσως χρειαστεί:
         *   Debian/Ubuntu: `sudo apt-get update && sudo apt-get install python3-tk`
