@@ -9,7 +9,6 @@
 1.  **Object Repair:**
     *   Επιδιορθώνει κοινά γεωμετρικά σφάλματα σε τρισδιάστατα μοντέλα (π.χ., .obj, .stl, .ply) όπως οπές, λανθασμένος προσανατολισμός εδρών (flipped normals) και ασυνεχή τμήματα.
     *   Χρησιμοποιεί τις βιβλιοθήκες `trimesh` και `pymeshfix`.
-   <img width="500" height="500" alt="Screenshot from 2025-05-29 23-43-53" src="https://github.com/user-attachments/assets/3be7eb10-ab43-4032-834d-533940c4ecec" />
 
    <img width="500" height="500" alt="Screenshot from 2025-05-29 23-46-12" src="https://github.com/user-attachments/assets/6b8f3f64-0b02-402c-a62a-dafa87b69385" />
 
@@ -22,15 +21,14 @@
     *   Εμφανίζει λεπτομερείς πληροφορίες για το μοντέλο πριν και μετά τη βελτιστοποίηση.
     *   **Απαιτεί την εξωτερική εξάρτηση `gltf-transform` CLI.**
   
-      <img width="1200" height="835" alt="Screenshot from 2025-05-29 23-44-46" src="https://github.com/user-attachments/assets/2cde1da8-dab0-4b80-a0e9-6a143bfca31e" />
-
+      <img width="500" height="500" alt="Screenshot from 2025-05-29 23-44-46" src="https://github.com/user-attachments/assets/2cde1da8-dab0-4b80-a0e9-6a143bfca31e" />
 
 
 3.  **3D Mesh Cut:**
     *   Παρέχει ένα διαδραστικό παράθυρο για την κοπή τρισδιάστατων μοντέλων "με ελεύθερο χέρι" (free-hand).
     *   Χρησιμοποιεί τη λειτουργία `FreeHandCutPlotter` της βιβλιοθήκης `vedo`.
 
-        <img width="1282" height="1004" alt="Screenshot from 2025-05-29 23-45-37" src="https://github.com/user-attachments/assets/b3b70fe8-c590-463b-8262-a3b9307ac923" />
+        <img width="500" height="500" alt="Screenshot from 2025-05-29 23-45-37" src="https://github.com/user-attachments/assets/b3b70fe8-c590-463b-8262-a3b9307ac923" />
 
 ## Προαπαιτούμενα
 
