@@ -9,11 +9,11 @@
 1.  **Object Repair:**
     *   Επιδιορθώνει κοινά γεωμετρικά σφάλματα σε τρισδιάστατα μοντέλα (π.χ., .obj, .stl, .ply) όπως οπές, λανθασμένος προσανατολισμός εδρών (flipped normals) και ασυνεχή τμήματα.
     *   Χρησιμοποιεί τις βιβλιοθήκες `trimesh` και `pymeshfix`.
-   <img width="1200" height="835" alt="Screenshot from 2025-05-29 23-43-53" src="https://github.com/user-attachments/assets/3be7eb10-ab43-4032-834d-533940c4ecec" />
+   <img width="500" height="500" alt="Screenshot from 2025-05-29 23-43-53" src="https://github.com/user-attachments/assets/3be7eb10-ab43-4032-834d-533940c4ecec" />
 
-   <img width="958" height="962" alt="Screenshot from 2025-05-29 23-46-12" src="https://github.com/user-attachments/assets/6b8f3f64-0b02-402c-a62a-dafa87b69385" />
+   <img width="500" height="500" alt="Screenshot from 2025-05-29 23-46-12" src="https://github.com/user-attachments/assets/6b8f3f64-0b02-402c-a62a-dafa87b69385" />
 
-   <img width="961" height="998" alt="Screenshot from 2025-05-29 23-46-34" src="https://github.com/user-attachments/assets/f1ec7bee-e76d-446e-a8b4-2bc52074140a" />
+   <img width="500" height="500" alt="Screenshot from 2025-05-29 23-46-34" src="https://github.com/user-attachments/assets/f1ec7bee-e76d-446e-a8b4-2bc52074140a" />
 
 2.  **GLTF Optimizer:**
 
