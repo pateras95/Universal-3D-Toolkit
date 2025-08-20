@@ -41,7 +41,6 @@
     ```
     Εγκαταστήστε τις εξαρτήσεις:
     ```bash
-    pip install tkinter trimesh pymeshfix numpy vedo
     pip install -r requirements.txt
     ```
     *   **Σημείωση για Tkinter σε Linux:** Αν δεν είναι ήδη εγκατεστημένη, ίσως χρειαστεί:
